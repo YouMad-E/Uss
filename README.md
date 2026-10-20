@@ -1,7 +1,7 @@
 # YouMad-E
 # Hi there, I'm Uss 👋
 
-🎓 **Master's Student in Artificial Intelligence, Computer Vision & Robotics**
+🎓 **Master's Student in Artificial Intelligence and its Applications in Vision and Robotics.**
 
 ---
 
